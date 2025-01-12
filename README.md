@@ -12,7 +12,7 @@ To run the tests locally on your machine, follow these steps:
 
 1. Clone this repository to your local machine:
    
-   git clone https://github.com/your_username/fk-zeljeznicar-testing.git
+   git clone [https://github.com/your_username/fk-zeljeznicar-testing.git](https://github.com/benjom22/SVVT-Testing-project---Jest.git)
    
 3. Install dependencies:
    
